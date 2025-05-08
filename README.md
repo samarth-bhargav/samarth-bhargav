@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is an archive of projects I've worked on in the past, and am currently working on. Here's a brief overview:
+This is an archive of projects I've worked on. Here's a brief overview:
 
 TJVMT Website - The front facing website for one of the top high-school math teams in the nation. I worked on the website my junior year, fixing errors as a statistician, and continue to monitor the website as a co-captain. 
 
