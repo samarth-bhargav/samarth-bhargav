@@ -2,7 +2,7 @@
 
 This is an archive of projects I've worked on. Here's a brief overview:
 
-TJVMT Website - The front facing website for one of the top high-school math teams in the nation. I worked on the website my junior year, fixing errors as a statistician, and continue to monitor the website as a co-captain. 
+TJVMT Website - The front facing website for one of the top high-school math teams in the nation. I worked on the website my junior year, fixing errors and increasing website functionality as a statistician, and continue to monitor the website as a co-captain. 
 
 HackMIT Blueprint - Won first place through created a program called “Rapid Relief Routing, ” enabling authorities to optimally dispatch firefighting units in an area under wildfire distress.
 
