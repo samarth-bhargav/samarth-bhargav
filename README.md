@@ -4,6 +4,8 @@ This is an archive of projects I've worked on. Here's a brief overview:
 
 TJVMT Website - The front facing website for one of the top high-school math teams in the nation. I worked on the website my junior year, fixing errors and increasing website functionality as a statistician, and continue to monitor the website as a co-captain. 
 
+HackMIT - Won first place in the healthcare division through "remember", a smart-glasses application using AI voice agents to scientifically stimulate autobiographical recall of memories throughout the day for patients with Alzheimers.
+
 HackMIT Blueprint - Won first place through created a program called “Rapid Relief Routing, ” enabling authorities to optimally dispatch firefighting units in an area under wildfire distress.
 
 IMC Prosperity - My team and I participated in the IMC Trading competition for the first time this year. This repository contains all of our probing, testing, and submission code. 
