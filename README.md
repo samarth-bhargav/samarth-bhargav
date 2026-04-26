@@ -2,6 +2,7 @@
 
 This is an archive of projects I've worked on. Here's a brief overview:
 
+TreeHacks - Won the Greylock "Best Multi-Agent Hack" award by creating "AIMongUs", an AmongUs RL environment to measure strategy and deception in multi-agent social settings. 
 
 HackMIT - Won first place in the healthcare division through "remember", a smart-glasses application using AI voice agents to scientifically stimulate autobiographical recall of memories throughout the day for patients with Alzheimers.
 
@@ -13,7 +14,7 @@ TJVMT Website - The front facing website for one of the top high-school math tea
 
 AppPill - An pill-scanning android app using optical character recognition to help schedule medication dosage for the elderly and visually impaired. Won $1500 at the FCPS Shark Tank Challenge. 
 
-Competitive Programming - An archive of problems I've solved over the past 6 years of competitively programming. Currently USACO Platinum and rated 1975 on Codeforces. 
+Competitive Programming - An archive of problems I've solved over the past 6 years of competitively programming. Currently USACO Platinum and rated 2009 on Codeforces. 
 
 Affine Recurrence Mechanistic Interpretability Research - Code for https://arxiv.org/abs/2410.17438, research done under the Non-Trivial Fellowship. 
 
